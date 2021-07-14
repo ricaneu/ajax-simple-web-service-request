@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    position: relative;
+    font-family: Shrikhand;
+    background: url(books.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+#author {
+    text-align: center;
+}
+
+#button {
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+}
+
+#quote {
+    padding: 50px;
+    border-left: 7px solid lightpink;
+    background-color: #eee;
+    height: 100px;
+}
+
+#image {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
+    display: block;
+}
